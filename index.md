@@ -19,5 +19,3 @@
 ## Enemies
 - Frygar (Green Enemies) Go back and forth between edges and don't fall off of edges
 - Pooka (Orange Enemies) Go back and forth between edges and drop down onto lower levels
-- 
-- 
