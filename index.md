@@ -4,7 +4,6 @@
  ### Python 3 Download Instructions
 - [Python Download Link](https://www.python.org/downloads/)
 - [Pygame Download Link](http://www.pygame.org/download.shtml)
-    -
 # Instructions
 ## Movement
 - Use A and D keys to move
