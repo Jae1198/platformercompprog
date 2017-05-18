@@ -3,7 +3,7 @@
 - This game was created using Python 3.6.1 and Pygame 2.7
  ### Python 3 Download Instructions
 - [Python Download Link](https://www.python.org/downloads/)
-- [Pygame Download Link(http://www.pygame.org/download.shtml)
+- [Pygame Download Link](http://www.pygame.org/download.shtml)
     -
 # Instructions
 ## Movement
