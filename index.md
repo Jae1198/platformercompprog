@@ -4,6 +4,7 @@
  ### Python 3 Download Instructions
 - [Python Download Link](https://www.python.org/downloads/)
 - [Pygame Download Link](http://www.pygame.org/download.shtml)
+- [Game Download Link](https://github.com/Jae1198/platformercompprog.git)
 # Instructions
 ## Movement
 - Use A and D keys to move
