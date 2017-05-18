@@ -8,7 +8,7 @@
 ## Movement
 - Use A and D keys to move
 - Use Spacebar to Jump
-- ![Gameplay](screenshot2.png)
+- ![Gameplay](screenshot2.PNG)
 ## Powerups & Coins
 - Coins Increase Your Score by 2.
 - When your character has 100 coins then your lives will increase by one.
