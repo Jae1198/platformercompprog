@@ -8,6 +8,7 @@
 ## Movement
 - Use A and D keys to move
 - Use Spacebar to Jump
+- ![Gameplay](screenshot2.png)
 ## Powerups & Coins
 - Coins Increase Your Score by 2.
 - When your character has 100 coins then your lives will increase by one.
@@ -16,3 +17,5 @@
 ## Enemies
 - Frygar (Green Enemies) Go back and forth between edges and don't fall off of edges
 - Pooka (Orange Enemies) Go back and forth between edges and drop down onto lower levels
+- 
+- 
