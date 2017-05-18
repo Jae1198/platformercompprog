@@ -8,6 +8,7 @@
 ## Movement
 - Use A and D keys to move
 - Use Spacebar to Jump
+- When it says press any key to start it literally means any key. Escape & function keys are included in that.
 ![Gameplay](screenshot1.PNG)
 ![Gameplay](screenshot2.PNG)
 ## Powerups & Coins
