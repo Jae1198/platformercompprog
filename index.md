@@ -13,4 +13,6 @@
 - When your character has 100 coins then your lives will increase by one.
 - Red Hearts give you more health and green hearts give you an extra life.
 - The intertwining Snakes cuts your speed by 3/4
-## 
+## Enemies
+- Frygar (Green Enemies) Go back and forth between edges and don't fall off of edges
+- Pooka (Orange Enemies) Go back and forth between edges and drop down onto lower levels
