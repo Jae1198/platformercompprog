@@ -20,3 +20,6 @@
 ## Enemies
 - Frygar (Green Enemies) Go back and forth between edges and don't fall off of edges
 - Pooka (Orange Enemies) Go back and forth between edges and drop down onto lower levels
+## Goals
+ - Get to the flag at the end of each level.
+ - There are 3 levels after you have gotten to all the flags you win.
